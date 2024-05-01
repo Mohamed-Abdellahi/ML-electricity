@@ -1,3 +1,6 @@
-# i'm commencing in github. so please give me a break 
-# it will be great soon, believe me and trust the process
+############# Project isn't finished yet #########@
+#This code is part of a master thesis that delves in Machine learning techniques for forecasting, supervised learning to be specific
+# It aims to build 2 stages-model where we will hybridise Statistical methods with advanced supervised learning algorithm.
+
+
 
